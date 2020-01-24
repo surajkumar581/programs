@@ -1,0 +1,11 @@
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.exe
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.deps.json
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.runtimeconfig.json
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.runtimeconfig.dev.json
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.dll
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.pdb
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.AssemblyInfoInputs.cache
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.AssemblyInfo.cs
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.dll
+C:\Users\suraj\Desktop\New folder (2)\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.pdb
