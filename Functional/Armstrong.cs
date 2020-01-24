@@ -12,7 +12,7 @@ namespace Functional_Programming
             /// Determines whether this instance is angstrong.
             /// </summary>
             /// <returns></returns>
-            public static int IsArmstrong1()
+            public static int IsArmstrong()
             {
                 int sum = 0;
                 int temp;
