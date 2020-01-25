@@ -1,0 +1,3 @@
+C:\Users\suraj\source\repos\Data Structure\obj\Debug\netcoreapp3.1\Data Structure.csprojAssemblyReference.cache
+C:\Users\suraj\source\repos\Data Structure\obj\Debug\netcoreapp3.1\Data Structure.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\Data Structure\obj\Debug\netcoreapp3.1\Data Structure.AssemblyInfo.cs
